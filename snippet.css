@@ -1,11 +1,10 @@
-
 /* SAGE VALLEY — REMNOTE */
 
 :root {
-  --sage-main: #CDE6CA;
+  --sage-main: #A8C9A2;
   --sage-light: #EAF3E7;
   --sage-paper: #F5FAF3;
-  --sage-accent: #A8C9A2;
+  --sage-accent: #CDE6CA;
   --sage-dark: #405B43;
 }
 
@@ -44,4 +43,3 @@
 .rn-clr-border-accent {
   border-color: var(--sage-accent) !important;
 }
-/* Add your custom styles here. See the docs for help: https://plugins.remnote.com/custom-css */
