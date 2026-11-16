@@ -1,25 +1,24 @@
-
 /* SAGE VALLEY — REMNOTE */
 
 :root {
-  --sage-main: #BABE9F;
-  --sage-sidebar: #E5E7D7;
-  --sage-light: #E4E5D5;
+  --sage-main: #D1D5BD;
   --sage-paper: #D1D5BD;
-  --sage-accent: #AEB394;
-  --sage-dark: #414936;
+  --sage-sidebar: #E5E8DA;
+  --sage-light: #F0F1E9;
+  --sage-accent: #C4CCB5;
+  --sage-dark: #505648;
 }
 
 /* Main backgrounds */
 .rn-clr-background {
-  background-color: var(--sage-main) !important;
+  background-color: var(--sage-paper) !important;
 }
 
 .rn-clr-background-primary {
-  background-color: var(--sage-main) !important;
+  background-color: var(--sage-paper) !important;
 }
 
-/* Sidebar and secondary backgrounds */
+/* Sidebar */
 .rn-clr-background-secondary {
   background-color: var(--sage-sidebar) !important;
 }
@@ -35,7 +34,7 @@
 
 /* Text */
 .rn-clr-content-primary {
-  color: #303729 !important;
+  color: #42483D !important;
 }
 
 .rn-clr-content-secondary {
