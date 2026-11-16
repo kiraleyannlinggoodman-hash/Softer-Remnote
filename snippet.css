@@ -18,8 +18,8 @@
   background-color: var(--sage-paper) !important;
 }
 
-/* Sidebar */
-.rn-clr-background-secondary {
+/* Main navigation sidebar */
+.rn-sidebar {
   background-color: var(--sage-sidebar) !important;
 }
 
