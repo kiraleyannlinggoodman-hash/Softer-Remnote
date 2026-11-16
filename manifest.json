@@ -1,17 +1,17 @@
 {
   "manifestVersion": 1,
-  "id": "sage-valley-theme",
-  "name": "Sage Valley",
+  "id": "softer-remnote",
+  "name": "softer remnote",
   "author": "Kira",
-  "repoUrl": "https://github.com/kiraleyannlinggoodman-hash/remnote-sage-theme",
+  "repoUrl": "https://github.com/kiraleyannlinggoodman-hash/Softer-Remnote",
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 1
+    "patch": 4
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "A soft sage green RemNote theme using #CDE6CA, designed for a calm, gentle and comfortable study environment.",
+  "description": "tired of remnote's harsh whites? replace them with soft lavender and beige",
   "requestNative": false,
   "requiredScopes": [
     {
