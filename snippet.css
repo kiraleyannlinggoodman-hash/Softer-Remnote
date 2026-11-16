@@ -1,7 +1,7 @@
 /* SAGE VALLEY — NEUTRAL SAGE */
 
 :root {
-  --sage-main: #E9E4ED;
+  --sage-main: #E9E5DC;
   --sage-paper: #DCE3DA;
   --sage-sidebar: #E9E4ED;
   --sage-light: #F3F5F1;
@@ -11,11 +11,11 @@
 
 /* Main backgrounds */
 .rn-clr-background {
-  background-color: var(--sage-paper) !important;
+  background-color: var(--sage-main) !important;
 }
 
 .rn-clr-background-primary {
-  background-color: var(--sage-paper) !important;
+  background-color: var(--sage-main) !important;
 }
 
 /* Main navigation sidebar */
